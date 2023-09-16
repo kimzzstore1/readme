@@ -6,7 +6,7 @@
 
 ---
 
-**Hi All, kenalin saya Muhammad Satritama atau biasa dipanggil Tama**
+**Hi All**
 
 
 - 🌱 Apa hobi saya?
