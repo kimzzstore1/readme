@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 
   
-![Tama Github Stats🚀](https://github-readme-stats.vercel.app/api?username=muhammdsatritama&show_icons=true&theme=tokyonight)
+![Tama Github Stats🚀](https://github-readme-stats.vercel.app/api?username=cekilpedia&show_icons=true&theme=tokyonight)
   
   ---
   
