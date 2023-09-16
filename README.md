@@ -22,9 +22,8 @@
 
 ```
 - CekilXyz
-- 17 Years Old 
-- Vocational high school 2 Bandung
-- Visual Communication Design Major
+- 17 Years Old
+- Pengocok Handal
 ```
 
 ---
@@ -54,12 +53,10 @@
   
   # Thanks To :
   
-* [`Saya Sendiri`](https://github.com/andyjavadams)
-* [`GeMa-Bot`](https://github.com/Pojan16)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Andy`](https://github.com/andyjavadams)
+* [`Allah-Swt`]
+* [`Saya Sendiri`]
   
 <!---
-muhammdsatritama/muhammdsatritama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cekilpedia/cekilpedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
