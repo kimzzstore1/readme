@@ -2,7 +2,7 @@
 
 
   
-![My Card ](https://cardivo.vercel.app/api?name=Muhammad%20Satritama%20&description="Berbahagialah%20dengan%20apa%20yang%20telah%20kamu%20miliki%20saat%20ini%20sambil%20mengusahakan%20apa%20yang%20kamu%20inginkan.%20Ingatlah,%20hidup%20bahagia%20dan%20sukses%20itu%20dimulai%20dengan%20Allah%20dan%20berakhir%20untuk%20Allah."&image=https://l.top4top.io/p_2304dljon0.png&backgroundColor=%23ecf0f1&instagram=@_2.7_06%20&github=muhammdsatritama&whatsapp=+6282211224927&pattern=leaf&colorPattern=%23eaeaea)
+![My Card ](https://cardivo.vercel.app/api?name=Muhammad%20Satritama%20&description="Berbahagialah%20dengan%20apa%20yang%20telah%20kamu%20miliki%20saat%20ini%20sambil%20mengusahakan%20apa%20yang%20kamu%20inginkan.%20Ingatlah,%20hidup%20bahagia%20dan%20sukses%20itu%20dimulai%20dengan%20Allah%20dan%20berakhir%20untuk%20Allah."&image=https://l.top4top.io/p_2304dljon0.png&backgroundColor=%23ecf0f1&instagram=@_2.7_06%20&github=cekilxyz&whatsapp=+48888888438&pattern=leaf&colorPattern=%23eaeaea)
 
 ---
 
