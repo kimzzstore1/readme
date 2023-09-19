@@ -27,7 +27,7 @@
 
 ---
 
-### [`👇🏻Tak Kenal Maka Harus Kenalan👇🏻`](https://msha.ke/incbot_official)
+### [`✅ Tak Kenal Maka Harus Kenalan ✅`](https://msha.ke/incbot_official)
 
  [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kimzz.store)
 
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 
   
-![Tama Github Stats🚀](https://github-readme-stats.vercel.app/api?username=cekilpedia&show_icons=true&theme=tokyonight)
+![Tama Github Stats🚀](https://github-readme-stats.vercel.app/api?username=Kimzzstore&show_icons=true&theme=tokyonight)
   
   ---
   
