@@ -2,7 +2,7 @@
 
 
   
-![My Card ](https://cardivo.vercel.app/api?name=Cekil%Xyz%20&description="Ngentod%Woi."&image=https://l.top4top.io/p_2304dljon0.png&backgroundColor=%23ecf0f1&instagram=@_2.7_06%20&github=cekilxyz&whatsapp=+48888888438&pattern=leaf&colorPattern=%23eaeaea)
+![My Card ](https://cardivo.vercel.app/api?name=Kimzz%Tech%20&description="Hello%guys."&image=https://l.top4top.io/p_2304dljon0.png&backgroundColor=%23ecf0f1&instagram=@_2.7_06%20&github=kimzzstore&whatsapp=+60146351257&pattern=leaf&colorPattern=%23eaeaea)
 
 ---
 
@@ -11,30 +11,29 @@
 
 - 🌱 Apa hobi saya?
   - Olahraga
-  - Ngocok
-  - Ngocok
-  - Ngocok
-  - Ngocok Lagi
+  - Ngoding
+  - Belajar
+  - Main Game
 
 ---
 
-### [`Biodata`](https://wa.me/48888888438?text=assalamu'alaikum+bang) 
+### [`Biodata`](https://wa.me/60146351257?text=assalamu'alaikum+bang) 
 
 ```
-- CekilXyz
+- KimzzTech
 - 17 Years Old
-- Pengocok Handal
+- Im from Malaysia
 ```
 
 ---
 
 ### [`👇🏻Tak Kenal Maka Harus Kenalan👇🏻`](https://msha.ke/incbot_official)
 
- [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cekilxyz)
+ [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kimzz.store)
 
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/48888888438)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0146351257)
 
- [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cekilhosting)
+ [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kimzzstore)
  
  ---
  
