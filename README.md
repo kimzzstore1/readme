@@ -2,7 +2,7 @@
 
 
   
-![My Card ](https://cardivo.vercel.app/api?name=Kimzz%Tech%20&description="Hello%20guys"&image=https://l.top4top.io/p_2304dljon0.png&backgroundColor=%23ecf0f1&instagram=@_2.7_06%20&github=kimzzstore&whatsapp=+60146351257&pattern=leaf&colorPattern=%23eaeaea)
+![My Card ](https://cardivo.vercel.app/api?name=Kimzz%20Hosting%20&description="Hello%20guys"&image=https://l.top4top.io/p_2304dljon0.png&backgroundColor=%23ecf0f1&instagram=@_2.7_06%20&github=kimzzstore&whatsapp=+60146351257&pattern=leaf&colorPattern=%23eaeaea)
 
 ---
 
